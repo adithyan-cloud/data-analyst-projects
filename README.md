@@ -4,4 +4,4 @@
 - Game Outcome Prediction (Python, SQL, Visualization)
 - Auto Price Prediction (EDA, Regression)
 
-Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
